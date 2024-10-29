@@ -10,7 +10,7 @@
 
 ### [Project page](https://EliasNehme.github.io/PosteriorTrees) | [Arxiv](https://arxiv.org/abs/2405.15719)
 
-![Teaser](https://github.com/EliasNehme/PosteriorTrees/blob/main/teaser_after.gif?raw=true)
+![Teaser](https://github.com/EliasNehme/PosteriorTrees/blob/main/docs/resources/teaser_after.gif?raw=true)
 
 This repository contains the official code release for ***Hierarchical Uncertainty Exploration via Feedforward Posterior Trees***.
 
